@@ -1,0 +1,1 @@
+Just a simple description of the project itself: a simple recipes website
